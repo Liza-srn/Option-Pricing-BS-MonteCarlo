@@ -274,24 +274,5 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-## 📚 References
 
-1. Black, F., & Scholes, M. (1973). "The Pricing of Options and Corporate Liabilities", *Journal of Political Economy*, 81(3), 637-654
-2. Hull, J. C. (2018). *Options, Futures, and Other Derivatives* (10th Edition), Pearson
-3. Glasserman, P. (2003). *Monte Carlo Methods in Financial Engineering*, Springer
-4. Shreve, S. E. (2004). *Stochastic Calculus for Finance II: Continuous-Time Models*, Springer
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Black-Scholes formula for European option benchmarking
-- Streamlit framework for interactive web application
-- NumPy and SciPy for numerical computations
